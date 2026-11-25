@@ -1,10 +1,11 @@
 # Phase 0 & 1: Software Engineering, Python & Data Foundations
 
-This folder covers the entire foundational stage of my journey toward becoming an AI Engineer. Starting from basic C++ knowledge, the goal here is to master the essential developer tools, Python programming, data manipulation, testing, and backend APIs required before diving into Machine Learning.
+This folder covers the entire foundational stage of my journey toward becoming an AI Engineer. Starting from basic C++ knowledge, the goal here is to master the essential developer tools, technical documentation practices, Python programming, data manipulation, testing, and backend APIs required before diving into Machine Learning.
 
 ## 🛠️ Tech Stack & Learning Resources
 
 * **Developer Environment & Git ([The Missing Semester of Your CS Education](https://missing-semester-esp.github.io/)):** Used to master the command-line shell, terminal workflows, debugging, and version control with Git.
+* **Technical Documentation ([Google Technical Writing Courses](https://developers.google.com/tech-writing)):** Used to learn engineering documentation standards—structuring clear `README` files, writing concise technical explanations, and documenting code properly as projects grow.
 * **Core Python ([30 Days of Python](https://github.com/asabeneh/30-days-of-python)):** Used to build fluency in Python syntax, data structures, object-oriented programming (OOP), file handling, and virtual environments.
 * **Relational Databases ([SQLBolt](https://sqlbolt.com/)):** Used to query, filter, join, and structure data stored in SQL databases.
 * **Data Analysis & Visualization ([freeCodeCamp - Data Analysis with Python](https://www.freecodecamp.org/learn/data-analysis-with-python/)):** Used to clean, transform, and visualize datasets using **NumPy**, **Pandas**, and **Matplotlib**.
@@ -13,13 +14,16 @@ This folder covers the entire foundational stage of my journey toward becoming a
 
 ## ⚙️ How This Folder Is Structured (Nodes)
 
-Each topic is broken down into modular **nodes** containing study notes, hands-on exercises, and mini-projects:
+Each topic is broken down into modular **nodes** containing documented study notes, hands-on exercises, and mini-projects:
 
 1. **`01_dev_environment_git`** — Command-line navigation, shell scripting, debugging, and Git workflows.
-2. **`02_python_fundamentals`** — Python core concepts, data structures, OOP, and virtual environment management.
-3. **`03_sql_databases`** — Writing SQL queries, multi-table `JOIN`s, aggregations, and table design.
-4. **`04_data_analysis`** — Numerical computing with NumPy, data manipulation with Pandas, and plotting with Matplotlib (via freeCodeCamp).
-5. **`05_testing_pytest`** — Writing automated test suites to validate scripts and data pipelines.
-6. **`06_apis_fastapi`** — Designing endpoints, request/response validation, and database integration.
+2. **`02_technical_documentation`** — Technical writing fundamentals, Markdown structuring, docstrings, and project documentation standards.
+3. **`03_python_fundamentals`** — Python core concepts, data structures, OOP, and virtual environment management.
+4. **`04_sql_databases`** — Writing SQL queries, multi-table `JOIN`s, aggregations, and table design.
+5. **`05_data_analysis`** — Numerical computing with NumPy, data manipulation with Pandas, and plotting with Matplotlib (via freeCodeCamp).
+6. **`06_testing_pytest`** — Writing automated test suites to validate scripts and data pipelines.
+7. **`07_apis_fastapi`** — Designing endpoints, request/response validation, and database integration.
 
 ## 🎯 Stage Goal
+
+Complete a solid, well-documented end-to-end engineering foundation: managing code with Git, writing clear technical docs, processing and querying data with Python and SQL, validating logic with automated tests, and exposing services through FastAPI—preparing the ground for **Machine Learning**.
